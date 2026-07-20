@@ -159,9 +159,9 @@ Conclusão: O Prompt 3 atingiu e superou os objetivos esperados. A resposta gera
 * Segurança: Proteger dados, sistemas e ativos, utilizando controles de acesso, criptografia e monitoramento de ameaças.
 * Confiabilidade: Garantir que a workload execute sua função corretamente e se recupere rapidamente de falhas, com alta disponibilidade e resiliência.
 * Eficiência de Performance: Usar recursos de computação de forma eficiente para atender aos requisitos do sistema, mantendo essa eficiência à medida que a demanda muda e as tecnologias evoluem.
-* - Princípio chave: Democratize tecnologias avançadas – consumir tecnologias complexas (como bancos de dados NoSQL ou Machine Learning) como serviço gerenciado, ao invés de se especializar em hospedá-las.
+  - Princípio chave: Democratize tecnologias avançadas – consumir tecnologias complexas (como bancos de dados NoSQL ou Machine Learning) como serviço gerenciado, ao invés de se especializar em hospedá-las.
 * Otimização de Custos: Alcançar o melhor resultado de negócio com o menor preço possível, evitando gastos desnecessários e utilizando recursos de forma econômica.
-* - Princípio chave: Adotar uma cultura de Gerenciamento Financeiro na Nuvem para entender e controlar os gastos.
+  - Princípio chave: Adotar uma cultura de Gerenciamento Financeiro na Nuvem para entender e controlar os gastos.
 * Sustentabilidade: Reduzir o impacto ambiental das workloads na nuvem, maximizando a eficiência e minimizando o desperdício de recursos.
 
 ---
